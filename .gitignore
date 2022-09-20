@@ -1,0 +1,4 @@
+#忽略register.css文件
+register.css
+#隐藏ignore目录下的所有文件
+ignore/
